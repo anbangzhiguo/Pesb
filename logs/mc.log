@@ -1,0 +1,2 @@
+2018-07-23 15:46:43,758 [INFO] org.hibernate.dialect.Dialect <main> 
+HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
